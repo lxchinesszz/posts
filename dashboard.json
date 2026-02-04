@@ -13,7 +13,7 @@
     },
     {
       "href": "https://mail.google.com/mail/u/0/#inbox",
-      "icon": "gmail",
+      "icon": "icon-gmail",
       "label": "谷歌邮箱"
     }
   ],
@@ -35,7 +35,7 @@
     },
     {
       "href": "https://www.coze.cn/",
-      "icon": "Coze",
+      "icon": "icon-coze",
       "label": "扣子"
     }
   ]
