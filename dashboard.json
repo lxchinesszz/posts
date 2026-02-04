@@ -1,40 +1,46 @@
 {
     "dock": {
-        "navbar": [
-            {
-                "href": "#",
-                "icon": "icon-chatgpt",
-                "label": "编辑"
-            }
-        ],
-        "common": [
-            {
-                "href": "#",
-                "icon": "icon-github",
-                "label": "GitHub"
-            },
-            {
-                "href": "#",
-                "icon": "icon-chatgpt",
-                "label": "GPT"
-            },
-            {
-                "href": "#",
-                "icon": "icon-gemini",
-                "label": "gemini"
-            },
-            {
-                "href": "#",
-                "icon": "icon-QWen",
-                "label": "qwen"
-            },
-            {
-                "href": "#",
-                "icon": "icon-doubao",
-                "label": "豆包"
-            }
-        ]
+  "navbar": [
+    {
+      "href": "https://github.com/lxchinesszz/posts/issues/new",
+      "icon": "icon-github",
+      "label": "编辑"
     },
+    {
+      "href": "https://mail.163.com/js6/main.jsp?sid=WLaLwZNNQfxqaTqsiLdiaydrZJPfBxwF&df=mail163_letter#module=welcome.WelcomeModule%7C%7B%7D",
+      "icon": "icon-pinpaibiaoshi_wangyiyouxiang",
+      "label": "163邮箱"
+    },
+    {
+      "href": "https://mail.google.com/mail/u/0/#inbox",
+      "icon": "icon-github",
+      "label": "谷歌邮箱"
+    }
+  ],
+  "common": [
+    {
+      "href": "https://chatgpt.com/",
+      "icon": "icon-chatgpt",
+      "label": "GPT"
+    },
+    {
+      "href": "https://gemini.google.com/",
+      "icon": "icon-gemini",
+      "label": "gemini"
+    },
+    {
+      "href": "https://www.qianwen.com/",
+      "icon": "icon-QWen",
+      "label": "qwen"
+    },
+    {
+      "href": "https://www.coze.cn/",
+      "icon": "Coze",
+      "label": "扣子"
+    }
+  ]
+}
+,
     "searchEngines": [
         {
             "createId": 1,
