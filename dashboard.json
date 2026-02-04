@@ -37,6 +37,11 @@
                 "href": "https://www.coze.cn/",
                 "icon": "icon-coze",
                 "label": "扣子"
+            },
+            {
+                "href": "https://github.dev/lxchinesszz/posts/blob/master/dashboard.json",
+                "icon": "icon-a-zhinengjiqirenjiqiren",
+                "label": "配置"
             }
         ]
     },
