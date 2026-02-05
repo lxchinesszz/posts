@@ -2094,6 +2094,14 @@
           "title": "React动画模版",
           "toolsTitle": "经常使用",
           "updateTime": 1764575273000
+        },
+        {
+          "category": "经常使用",
+          "link": "chrome://extensions/",
+          "desc": "",
+          "title": "扩展程序",
+          "source": 1,
+          "id": "520e3c48-2d8f-4314-9735-581a5a449e8e"
         }
       ]
     },
